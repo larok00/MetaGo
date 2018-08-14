@@ -1,0 +1,116 @@
+{
+    "51000001":
+    {
+        "name": "Ready salted crisps - Walkers",
+        "price": "0.50",
+        "weight": "25"
+    },
+    "51000009":
+    {
+        "name": "Salt and vinegar - Walkers",
+        "price": "0.50",
+        "weight": "25"
+    },
+    "51000012":
+    {
+        "name": "Prawn cocktail crisps - Walkers",
+        "price": "0.50",
+        "weight": "25"
+    },
+    "5000328698823":
+    {
+        "name": "Cheese and onion - Walkers",
+        "price": "0.50",
+        "weight": "32.5"
+    },
+    "5000328347790":
+    {
+        "name": "Ready salted - Walkers",
+        "price": "0.50",
+        "weight": "32.5"
+    },
+    "5000328461755":
+    {
+        "name": "Salt and Vinegar - Walkers",
+        "price": "0.50",
+        "weight": "32.5"
+    },
+    "50237098":
+    {
+        "name": "Kp Dry Roasted Peanuts 50g",
+        "price": "0.60",
+        "weight": "50"
+    },
+    "50237043":
+    {
+        "name": "Kp Original Salted Peanuts 50g",
+        "price": "0.60",
+        "weight": "50"
+    },
+    "5000328514536":
+    {
+        "name": "Classic Peanuts - Nobby's Nuts",
+        "price": "0.60",
+        "weight": "50"
+    },
+    "5000312002131":
+    {
+        "name": "Picnic",
+        "price": "0.55",
+        "weight": "48.4"
+    },
+    "5000159470476":
+    {
+        "name": "Mars",
+        "price": "0.55",
+        "weight": "51"
+    },
+    "5034660516170":
+    {
+        "name": "Bournville",
+        "price": "0.55",
+        "weight": "45"
+    },
+    "5023274049815":
+    {
+        "name": "Wine Gums",
+        "price": "0.55",
+        "weight": "52"
+    },
+    "50201105":
+    {
+        "name": "Fry's Turkish Delight",
+        "price": "0.55",
+        "weight": "51"
+    },
+    "5000159001335":
+    {
+        "name": "Revels",
+        "price": "0.55",
+        "weight": "35"
+    },
+    "7613034959638":
+    {
+        "name": "Drifter",
+        "price": "0.55",
+        "weight": "48"
+    },
+    "7622300743536":
+    {
+        "name": "Cadbury Dairy Milk",
+        "price": "0.55",
+        "weight": "45"
+    },
+    "7622300743659":
+    {
+        "name": "Cadbury Dairy Milk - Fruit and Nut",
+        "price": "0.55",
+        "weight": "49"
+    },
+    "7613034872593":
+    {
+        "name": "Yorkie - Raisin and Biscuit",
+        "price": "0.55",
+        "weight": "44"
+    }
+}

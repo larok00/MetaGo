@@ -1,0 +1,1 @@
+[{"productname":"Crisps","price":0.45,"productid":3},{"productname":"Chocolate","price":0.40,"productid":2},{"productname":"Peanuts","price":0.20,"productid":7}]
